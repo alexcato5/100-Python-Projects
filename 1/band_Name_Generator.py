@@ -1,5 +1,7 @@
 # # # BAND NAME GENERATOR # # #
+#
 # This code generates a name for your band using your origin city and your pet's name
+#
 
 print("Hi, I'll help you choose a name for your new band :)")
 
