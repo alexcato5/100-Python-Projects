@@ -8,4 +8,4 @@ people = int(input("How many people are going to pay the bill?\n\t> "))
 
 total_per_person = ( total + total*(tip_percentage/100) )/ people
 
-print(f"Each person should pay ${total_per_person}")
+print(f"Each person should pay ${round(total_per_person, 2)}")
